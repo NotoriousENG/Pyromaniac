@@ -1,0 +1,11 @@
+[NAME=???]A word echoes in your mind
+
+[NAME=Flint-Stone]FLINT-STONE
+
+A bountiful anger from beyond the veil reveals itself to you in the forgotten flame of an ancient tongue.
+
+We'.. Th.. Moder... one... ge.. fam .. y
+
+You can now shoot Fireballs!
+
+EndQueue

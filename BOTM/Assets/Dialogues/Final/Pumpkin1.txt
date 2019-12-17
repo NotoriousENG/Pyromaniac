@@ -1,0 +1,7 @@
+[NAME=Jacky]Hi I'm Jacky!
+
+I'm normally pretty strong, but I've got a nasty bruise, can you fetch me an Ice-Cube?
+
+If you bring me one, I'll let you through!
+
+EndQueue

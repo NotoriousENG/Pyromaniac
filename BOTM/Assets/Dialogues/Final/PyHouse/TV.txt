@@ -1,0 +1,7 @@
+[NAME=TV] There's a show on the TV!
+
+There is a boy with a backpack going on all sorts of crazy adventures.
+
+You should get going.
+
+EndQueue

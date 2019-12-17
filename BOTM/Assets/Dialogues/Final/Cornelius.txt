@@ -1,0 +1,7 @@
+[NAME=Cornelius]I'm Cornelius!
+
+I study Sociology at Cornwall University!
+
+I'm nothing like my brother!
+
+EndQueue

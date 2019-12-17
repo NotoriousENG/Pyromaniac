@@ -1,0 +1,5 @@
+[NAME=Fridge] It's full of Vegetables!
+
+Doesn't look like any are moving ...
+
+EndQueue

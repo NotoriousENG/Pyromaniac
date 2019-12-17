@@ -1,0 +1,7 @@
+[NAME=???] Whoah, you just like walked into my house.
+
+[NAME=Bob] My name's Bob!
+
+Deja vu!?
+
+EndQueue

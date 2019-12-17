@@ -1,0 +1,23 @@
+[NAME=???] Hello Py Fieri!
+
+My name is Peabody von Peavington
+
+[NAME=Peaobody] It looks like that chicken has stolen your underwear!
+
+You must follow it! It looks like it is heading to Lit City Hall.
+
+Or as the kids call it, Lity Hall.
+
+You'll have to pass several obstacles on your way!
+
+Be sure to CTRL your powers or Click-Left into them!
+
+Also there are two meters you need to know about within your soul.
+
+There is your Passion meter which represents your livelihood in three flame segments.
+
+And there is your Spirit meter which is fueled by victory and defeat.
+
+You can use some of your spirit meter to heal by pressing into your inner 'H' key.
+
+EndQueue

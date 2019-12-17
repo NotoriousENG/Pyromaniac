@@ -1,0 +1,7 @@
+[NAME=Bed] It's your Bed!
+
+Feels harder than usual ...
+
+Better get going!
+
+EndQueue

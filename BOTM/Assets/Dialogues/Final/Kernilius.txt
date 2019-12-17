@@ -1,0 +1,7 @@
+[NAME=Kernelius]I'm Kernelius!
+
+I study Social Psychology at Cornwall University!
+
+I'm nothing like my brother!
+
+EndQueue

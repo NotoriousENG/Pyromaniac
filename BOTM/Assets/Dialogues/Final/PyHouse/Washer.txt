@@ -1,0 +1,5 @@
+[NAME=Washy] It's a washing machine!
+
+It sure brings back memories . . .
+
+EndQueue
