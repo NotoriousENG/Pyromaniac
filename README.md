@@ -1,6 +1,9 @@
 # Pyromaniac
 Student game project made from September 1st 2019 through December 8th 2019.
 
+# Videos:
+https://www.youtube.com/watch?v=Yln2SwRHNBc
+
 # Roles
 ## Michael O'Connell
 - Programmer for game systems and mechanics (Developed all c# source code that appears in the builds of the game)
