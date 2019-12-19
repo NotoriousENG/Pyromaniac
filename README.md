@@ -4,6 +4,10 @@ Student game project made from September 1st 2019 through December 8th 2019.
 # Videos:
 https://www.youtube.com/watch?v=Yln2SwRHNBc
 
+# Platform Specific Bugs:
+## Linux: 
+Dialogue prints an extra newline, doesn't affect gameplay but is really annoying
+
 # Roles
 ## Michael O'Connell
 - Programmer for game systems and mechanics (Developed all c# source code that appears in the builds of the game)
