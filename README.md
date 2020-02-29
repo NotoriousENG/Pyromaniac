@@ -29,3 +29,7 @@ Dialogue prints an extra newline, doesn't affect gameplay but is really annoying
 - GDD (Focused on writing witty descriptions and document layout to make this game stand out)
 - Submitted Rough Schedules
 - Marketing Art 
+
+## Tiger 
+- GDD
+- Prototype dungeon layouts
