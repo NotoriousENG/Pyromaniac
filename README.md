@@ -5,7 +5,7 @@ Student game project made from September 1st 2019 through December 8th 2019.
 https://www.youtube.com/watch?v=Yln2SwRHNBc
 
 # Platform Specific Bugs:
-## Linux: 
+## Some Linux and MacOS versions: 
 Dialogue prints an extra newline, doesn't affect gameplay but is really annoying
 
 # Roles
