@@ -30,6 +30,6 @@ Dialogue prints an extra newline, doesn't affect gameplay but is really annoying
 - Submitted Rough Schedules
 - Marketing Art 
 
-## Tiger 
+## Tiger Sullivan
 - GDD
 - Prototype dungeon layouts
